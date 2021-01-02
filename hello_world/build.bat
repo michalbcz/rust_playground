@@ -1,0 +1,1 @@
+call rustc main.rs
